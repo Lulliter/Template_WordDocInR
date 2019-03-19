@@ -1,0 +1,72 @@
+---
+title: "Lit Rev DIA Chap ? Future"
+date: "`r format(Sys.Date())`"
+bibliography: assets/DIA_Lit_CapInnovation.bib
+output:
+  pdf_document:
+    latex_engine: xelatex
+    toc: yes 
+  word_document: 
+    reference_docx: assets/my-styles.docx
+    fig_caption: yes
+    keep_md: no
+    toc: yes
+editor_options: 
+  chunk_output_type: inline
+nocite: |
+ @zagatti_trip_2018 
+biblio-style: apalike
+---
+
++ **@zagatti_trip_2018** have an empirical study 
+
+
+# PROBLEMs
+
+
+## Hard to "see" where water comes from (WRM perspective)
+
+## Hard to know what consumes more water (consumer perspective)
+
+1) *Agriculture*, which uses 80% of all the water humans consume—could grow far more food with far less water with improved technologies and irrigation practices.
+
+2) In our **cities**, as much as a third of all water is lost to leaks or inefficient uses.
+
+3) there is a *water “footprint” embedded in everything we do*: for irrigation, to grow cotton or produce steel, to make cell phones or cars, to water our gardens, and flush our toilets. 
+
+_"The average American water footprint is 7,800 liters per day. Compare that with Germans who have a water footprint of 3,900 liters or the Chinese with 2,900 liters."_ [See @thakar_your_2018]
+
+![Image 1](assets/WaterFoot_pizza.png){width=25%}![Image 2](assets/WatFoot_coffe.png){width=25%}
+![Image 3](assets/WaterFoot_pig.png){width=25%}![Image 4](assets/WatFoot_chicken.png){width=25%}
+
+[see @hoekstra_water_2017]
+
+
+## Hard to price adequately (regulation + suppliers')
+
+
+# (Innovative) SOLUTIONs
+
+##  Hard to "see" (WRM perspective) --> RS for Groundwater / Water footprint 
+
+#### Take it from new places 
+
+1) Singapore (NEwwater) but also Namibia Widhoek (1/4 of water is reused ??? )  
+https://qz.com/is/what-happens-next-2/1438726/future-of-water/
+
+
+##  Hard to price adequately (regulation + suppliers') --> Local answer? (China sponge cities? )
+
+1) Decisions at personal level (food, appliances, garden)
+	"ew home appliances like washing machines, dishwashers, toilets, and showerheads use far less water now than they did a few years ago. The average toilet in the United States used to require over 20 liters per flush. Today, the national standard is six liters, and newer models use even less (and work even better)." (**@gleick_we_2018**)
+	
+2) Decisions at communty level (use of stormwater, local streams, ...  local weels )
+3) city 
+4) countries 
+
+
+
+##  Inform the consumers (consumer perspective) --> Sarni etc. 
+
+
+# BIBLIOGRAPHY 
