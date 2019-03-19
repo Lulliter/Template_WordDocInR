@@ -25,7 +25,8 @@ git remote show origin
 git status
 
 # 6) Add local changes to staging area 
- 
+git add push_git.sh
+
 git add -A # everything
 git add -u # only already tracked stuff 
 
